@@ -10,7 +10,7 @@
 
 2. clonar el repositorio con los archivos para visualizar y manipular el doosan-robot m1013
 
-  git clone https://github.com/wilderarias95/practica_robotica.git
+  git clone https://github.com/wilderarias95/practica_robotica.git 
 
 3.  Visualización en Gazebo
 
